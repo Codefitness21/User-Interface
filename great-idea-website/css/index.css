@@ -172,7 +172,6 @@ img.middle-img {
 footer {
 	text-align: center;
 	font-size: 12px;
-	position: fixed;         
-    bottom: 0px; 
-    width: 60%;
+	margin-top: 220px; 
+    width: 100%;
 }
