@@ -116,9 +116,8 @@ button {
 	right: 300px;
 }
 
-#horizontal-line {
-	height: 20px;
-	width: 2px;
+#horizontal {
+	width: 97%;
 	color: solid black;
  }
 
@@ -155,9 +154,8 @@ img.middle-img {
 }
 
 	  
-#horizontal-line {
-	height: 20px;
-	width: 2px;
+#horizontal {
+	width: 97%;
 	color: solid black;
  }
  
