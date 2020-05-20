@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Codefitness21/User-Interface/issues"
   },
-  "homepage": "https://Codefitness21.github.io/User-Interface"
+  "homepage": "https://Codefitness21.github.io/User-Interface",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }
