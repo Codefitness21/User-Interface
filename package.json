@@ -4,7 +4,7 @@
   "description": "Being able to create a user interface from scratch based on a design file is considered a basic necessity for front end developers. We will be building a single page website using HTML and CSS.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d great-idea-website"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,5 @@
   "bugs": {
     "url": "https://github.com/Codefitness21/User-Interface/issues"
   },
-  "homepage": "https://github.com/Codefitness21/User-Interface#readme"
+  "homepage": "https://Codefitness21.github.io/User-Interface"
 }
